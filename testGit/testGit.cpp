@@ -1,4 +1,5 @@
 #include <iostream>
+// Main function
 void main()
 {
 	std::cout << "Hello word!!!" << std::endl;
