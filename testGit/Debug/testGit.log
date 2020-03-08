@@ -1,0 +1,3 @@
+﻿  testGit.cpp
+d:\projects\testgit\testgit\testgit.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  testGit.vcxproj -> D:\projects\testGit\Debug\testGit.exe
